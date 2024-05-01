@@ -1,0 +1,17 @@
+{
+  "valid": {
+    "email": "testingemail2352@gmail.com",
+    "password": "Passfortesting123!"          
+  },
+  "invalid": {
+    "username": "Admin",
+    "password": "Admin"
+  },
+  "new": {
+    "email": "newtestingemail2352@gmail.com",
+    "password": "Password8910"
+  },
+  "url": {
+    "homePage": "https://carturesti.ro/?lang=en-US"
+  }
+}
